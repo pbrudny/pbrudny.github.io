@@ -33,6 +33,10 @@ div.footer {
   position: fixed;
   bottom: 0;
   width: 100%;
-  margin: 1em auto;
-  text-align: center;
+  margin-bottom: 2vh;
+  text-align: right;
+}
+
+.powered {
+  padding-right: 1vw;
 }

@@ -26,7 +26,7 @@ p {
 
 a {
   text-decoration: none;
-  color: blue;
+  color: #337ab7;
 }
 
 div.footer {
@@ -38,5 +38,7 @@ div.footer {
 }
 
 .powered {
-  padding-right: 1vw;
+  padding-right: 2vw;
+  color: #777;
+  fontFamily: "Helvetica Neue", "Helvetica" , "Arial" ,"sans-serif";
 }
